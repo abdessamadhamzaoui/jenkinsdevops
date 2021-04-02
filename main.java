@@ -1,5 +1,5 @@
 public class main(){
   public static void main(String[] args) {
-        System.out.printlni("Everything functions well!"); }
+        System.out.printlni("Everything functioning well!"); }
   
 }
